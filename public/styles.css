@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+.app-container {
+	text-align: center;
+}
+
+.app-container ul{
+  list-style-type: none;
+}
